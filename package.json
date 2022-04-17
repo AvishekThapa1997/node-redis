@@ -1,0 +1,16 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./index.js"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "express": "^4.17.1",
+    "redis": "^4.0.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
